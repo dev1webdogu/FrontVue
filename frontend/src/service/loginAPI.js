@@ -6,7 +6,7 @@ const getUserInfo = (userId, userPw) => {
         'user_pw': userPw
     }
 
-    let serverUrl = '//backjava:8081'
+    let serverUrl = '//port-0-backjava-azyqdr152alrq4oq4w.sel5.cloudtype.app/'
 
     /*return {
         'data': {
