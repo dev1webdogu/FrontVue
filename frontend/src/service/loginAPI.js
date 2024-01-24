@@ -6,7 +6,7 @@ const getUserInfo = (userId, userPw) => {
         'user_pw': userPw
     }
 
-    let serverUrl = '//localhost:8081'
+    let serverUrl = '//backjava:8081'
 
     /*return {
         'data': {
